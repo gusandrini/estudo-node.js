@@ -17,3 +17,12 @@ console.log(typeof apredendeJS) //object
 
 let simbulo = Symbol()
 console.log(typeof simbulo) //symbol
+
+//tipos do JS:
+//string
+//number
+//boolean
+//undefined
+//null
+//symbol
+//object
