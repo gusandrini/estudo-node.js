@@ -28,5 +28,3 @@ O objetivo é consolidar o aprendizado e manter um histórico da minha evoluçã
 
 ---
 
-## 📂 Estrutura do Repositório (sugestão)
-
